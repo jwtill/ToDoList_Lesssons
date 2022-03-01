@@ -20,7 +20,6 @@
 /Users/JoshTillinghast/Desktop/GAAAAh/c-sharp-to-do-list-week-2/ToDoList/obj/Debug/net5.0/ToDoList.TagHelpers.input.cache
 /Users/JoshTillinghast/Desktop/GAAAAh/c-sharp-to-do-list-week-2/ToDoList/obj/Debug/net5.0/ToDoList.TagHelpers.output.cache
 /Users/JoshTillinghast/Desktop/GAAAAh/c-sharp-to-do-list-week-2/ToDoList/obj/Debug/net5.0/ToDoList.RazorCoreGenerate.cache
-/Users/JoshTillinghast/Desktop/GAAAAh/c-sharp-to-do-list-week-2/ToDoList/obj/Debug/net5.0/Razor/Views/Home/Index.cshtml.g.cs
 /Users/JoshTillinghast/Desktop/GAAAAh/c-sharp-to-do-list-week-2/ToDoList/obj/Debug/net5.0/ToDoList.RazorTargetAssemblyInfo.cache
 /Users/JoshTillinghast/Desktop/GAAAAh/c-sharp-to-do-list-week-2/ToDoList/obj/Debug/net5.0/ToDoList.RazorTargetAssemblyInfo.cs
 /Users/JoshTillinghast/Desktop/GAAAAh/c-sharp-to-do-list-week-2/ToDoList/obj/Debug/net5.0/ToDoList.Views.pdb
@@ -29,3 +28,6 @@
 /Users/JoshTillinghast/Desktop/GAAAAh/c-sharp-to-do-list-week-2/ToDoList/obj/Debug/net5.0/ToDoList.pdb
 /Users/JoshTillinghast/Desktop/GAAAAh/c-sharp-to-do-list-week-2/ToDoList/obj/Debug/net5.0/ToDoList.genruntimeconfig.cache
 /Users/JoshTillinghast/Desktop/GAAAAh/c-sharp-to-do-list-week-2/ToDoList/obj/Debug/net5.0/ToDoList.csproj.CopyComplete
+/Users/JoshTillinghast/Desktop/GAAAAh/c-sharp-to-do-list-week-2/ToDoList/obj/Debug/net5.0/Razor/Views/Items/CreateForm.cshtml.g.cs
+/Users/JoshTillinghast/Desktop/GAAAAh/c-sharp-to-do-list-week-2/ToDoList/obj/Debug/net5.0/Razor/Views/Items/Index.cshtml.g.cs
+/Users/JoshTillinghast/Desktop/GAAAAh/c-sharp-to-do-list-week-2/ToDoList/obj/Debug/net5.0/Razor/Views/Home/Index.cshtml.g.cs
